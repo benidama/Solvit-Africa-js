@@ -1,0 +1,7 @@
+// const math = require("./exercise");
+import {add, substruct} from "./exercise.js"
+
+// console.log(math.add(23,45));
+// console.log(math.substruct(83,45));
+console.log(add(23,45));
+console.log(substruct(83,45));
